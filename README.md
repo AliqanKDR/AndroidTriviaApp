@@ -1,3 +1,3 @@
 # AndroidTriviaApp
 
-![Main](https://user-images.githubusercontent.com/80212869/149494118-df701fb1-3fc2-455f-abb9-1ac82aad55e3.png)
+![image](https://user-images.githubusercontent.com/80212869/149494289-58bfe30c-32d0-4da1-8954-79dac46b4aa2.png)
